@@ -2,8 +2,8 @@
 //  MLAppDelegate.m
 //  CrystalBall
 //
-//  Created by Soledad Liquori on 9/11/14.
-//  Copyright (c) 2014 mliqu. All rights reserved.
+//  Created by Michael Liquori on 9/11/14.
+//  Copyright (c) 2014 Team Treehouse. All rights reserved.
 //
 
 #import "MLAppDelegate.h"
